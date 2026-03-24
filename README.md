@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+🤔 A minimize Time Series Database, written from scratch as a learning project. 从零开始实现一个 TSDB
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,py,git,bash&scale=1.0&theme=dark" />
+  </a>
+</p>
+
 <!--
 **manheas/manheas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
